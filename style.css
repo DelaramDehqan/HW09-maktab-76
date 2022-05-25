@@ -1,0 +1,184 @@
+
+body{
+    overflow-x: hidden;
+}
+
+*{
+    font-family: "bello-pro-1", "bello-pro-2", sans-serif;
+    font-weight: bold;
+}
+
+.nav-link{
+    color:black;
+    text-decoration: solid;
+    word-spacing: 50px;
+    
+}
+.btn-sign{
+    border: 2px solid rgb(234, 226, 226);
+    border-radius: 0; 
+     
+}
+.heading{
+    height: 700px;
+    padding-top: 10px;
+}
+.color-text{
+    color: #6D23FF;
+}
+.title{
+    font-size: 50px;
+}
+.subtitle{
+    font-size: 18px;
+}
+.btn{
+    border-radius: 0;
+}
+
+.form-control{
+    border-radius: 0;
+    border: 0; 
+}
+
+.section-1{
+    height: 200px;
+    
+}
+.brands{
+    margin-left: 400px;
+}
+.brands img{
+    width: 70px;
+    height: 50px;
+}
+.brands h6{
+    margin-top: 20px;
+}
+hr{
+    color: rgb(215, 215, 215);
+    margin-top: 40px;
+}
+
+
+.section-2{
+    margin-top: 30px;
+    /* border: .5px solid rgb(237, 231, 231); */
+}
+.title{
+    margin-top: 100px;
+}
+.card{
+    margin-left: 50px;
+    height: 380px;
+    border: 0 solid rgb(188, 186, 186);
+}
+.card-1{
+    width: 450px;
+    height: 400px;
+    /* margin-left: 200px; */
+}
+.pur-cir{
+    
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    background-color: #6D23FF;
+    color: white;
+    font-size: 25px;
+}
+
+.btn-2,
+.btn-3,
+.btn-4{
+    color: #6D23FF;
+    border: 1px solid rgb(109, 35, 255);
+    margin-bottom: 50px;
+}
+.card-1{
+    margin-top: 200px;
+    height: 200px;
+    margin-left: 200px;
+}
+.pur-cir-2{
+    width: 100px;
+    height: 100px;
+    background-color: #6D23FF;
+    margin-left: 250px;
+    
+    
+}
+.fa-image{
+    margin-top: 80px;
+    margin-left: 150px;
+    font-size: 30px;
+}
+.txt-1{
+    margin-left: 190px;
+   
+}
+.section-4{
+    margin-top: 100px;
+}
+.section-4 img{
+    height:500px;
+    width:600px;
+    object-fit:contain;
+}
+ .text-card{
+    margin-top: 200px;
+    text-align: justify;
+}
+.untitle{
+    text-align: justify;
+}
+.section-5{
+    margin-top: 180px;
+    
+}
+.card-6{
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-left: 200px;
+
+}
+
+.section-5,
+.card-6{
+    background-color: #6D23FF;
+    
+}
+.section-6{
+    margin-top: 200px;
+}
+.icon-media{
+    gap: 5PX;
+    text-align: center;
+    
+}
+.media{
+    width: 25px;
+    height: 25px;
+    background-color: #ffffff;
+    color: #3CB265;
+    border: 1px solid rgb(60, 178, 101);
+    font-size: 15px;
+    
+}
+.footer{
+    font-size: small;
+    
+}
+.btn-5{
+    height: 35px;
+    width: 35px;
+    background-color: #6D23FF;
+    color: #ffffff;
+    border-radius: 5px;
+    border: 0px solid #6D23FF;;
+}
+
+.form-control {
+    width: 390px;
+}
